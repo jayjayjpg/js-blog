@@ -1,6 +1,6 @@
 # [Ghost](https://github.com/TryGhost/Ghost) with [Heroku](http://heroku.com)
 
-Ghost is a super, open, simple blogging platform. Visit the project's website at <http://ghost.org>, or read the docs on <http://support.ghost.org>.
+Ghost is a super-duper, open, simple blogging platform. Visit the project's website at <http://ghost.org>, or read the docs on <http://support.ghost.org>.
 
 ## Deploying on Heroku
 
